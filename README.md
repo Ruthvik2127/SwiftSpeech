@@ -253,6 +253,6 @@ SwiftSpeech is available under the [MIT license](https://choosealicense.com/lice
 
 # Contributors :
 1. Aaquib ali
-2. Ruthvik
+2. Ruthvik Kanukunta
 3. Shrejan singh
 4. Ekta Arora
