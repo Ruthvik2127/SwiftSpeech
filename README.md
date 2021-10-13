@@ -44,6 +44,11 @@ In Xcode, select `Add Packages...` from the `File` menu and enter the following 
 ```html
 https://github.com/Cay-Zhang/SwiftSpeech
 ```
+### Swift Package Manager (Recommended)
+In Xcode, select `Add Packages...` from the `File` menu and enter the following package URL:
+```html
+https://github.com/Cay-Zhang/SwiftSpeech
+```
 
 ### CocoaPods
 ```ruby
